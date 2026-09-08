@@ -15,7 +15,7 @@ Restart ComfyUI. No additional Python dependencies for the core node.
 
 Download the Lora from here:
 
-[https://huggingface.co/eric-venti-seeds/E-Flux2Klein9B](https://huggingface.co/eric-venti-seeds/Eyes_Direction_Lora_Flux2Klein9B)
+[https://huggingface.co/eric-venti-seeds/Eyes_Direction_Lora_Flux2Klein9B](https://huggingface.co/eric-venti-seeds/Eyes_Direction_Lora_Flux2Klein9B)
 
 
 
