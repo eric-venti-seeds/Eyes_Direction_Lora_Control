@@ -19,7 +19,7 @@ Download the Lora from here:
 
 
 
-The Node renders a 1024 x 1024 image as reference for the LoRA to understand where the light comes from
+The Node renders a 1024 x 1024 image as reference for the LoRA to understand where the eyes have to look at
 
 <img width="500" height="616" alt="Eyes_direction_node" src="https://github.com/user-attachments/assets/bf323b2c-fd09-46f1-ba40-07fed27ca0c3" />
 
