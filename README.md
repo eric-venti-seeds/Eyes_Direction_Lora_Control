@@ -1,4 +1,4 @@
-# Eyes Control Lora node for ComfyUI
+# Eyes Direction Lora Control node for ComfyUI
 Widget to tell Flux 2 Klein where the eyes must look at. To be used with Eyes_Direction_Lora for Flux2Klein
 
 ## Install
