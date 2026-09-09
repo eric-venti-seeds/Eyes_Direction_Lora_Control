@@ -7,7 +7,7 @@ Clone into your `ComfyUI/custom_nodes/`:
 
 ```bash
 cd ComfyUI/custom_nodes/
-git clone https://github.com/eric-venti-seeds/Sphere-Light-Render-ComfyUI.git
+git clone https://github.com/eric-venti-seeds/Eyes_Direction_Lora_Control.git
 ```
 
 Restart ComfyUI. No additional Python dependencies for the core node.
